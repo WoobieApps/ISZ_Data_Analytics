@@ -1,1 +1,1 @@
-# ISZ_Data_Analytics
+# Data Analytics - ISZ course repository
